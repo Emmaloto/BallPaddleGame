@@ -1,0 +1,22 @@
+﻿You passed! 
+
+ CONGRATULATIONS!
+ 
+ Thanks for playing! Press r to restart the game!
+ 
+ More levels and other features coming soon!
+ 
+ __xxxxxxxxxxx______xxxxxxxxxx
+_xxxxxxxxxxxxxx___xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+__xxxxxxxxxxxxxxxxxxxxxxxxxxx
+____xxxxxxxxxxxxxxxxxxxxxx
+_______xxxxxxxxxxxxxxxxx
+________xxxxxxxxxxxx
+__________xxxxxxxxx
+____________xxxxx
+_____________xxx
+_____________xx
+_____________*

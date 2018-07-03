@@ -1,0 +1,32 @@
+
+Welcome to BLOCK BREAKER!
+  The goal of the game is to destroy the bricks by using the ball and the paddle. 
+    This game was my first real programming challenge, as it involved developing the physics 
+    for the ball and power-ups as well as understanding how animation actually worked.
+  The game contains different kinds of power-ups, which can be seen below:
+        
+        
+        -            Speeds up the ball   
+        
+        
+        -            Slows down the ball  
+        
+        
+        -            Shortens the paddle
+        
+        
+        -            Elongates the paddle
+        
+    There is still a lot of work to be done. I'm hoping to
+    - Improve the physics and animation
+    - Add more power-ups and levels
+    - Add a level creator
+    - General bug fixing
+    
+    Press r to restart the game at any point.
+    Press p to pause and q to resume the game.
+    Press h to turn this screen on/off.
+    
+    If you have any suggestions or opinions, you can contact me at
+    icyblaze16@gmail.com. I hope you had fun trying this out!
+    
